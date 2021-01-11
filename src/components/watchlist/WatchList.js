@@ -80,7 +80,7 @@ const WatchList = ({ selectedMovies, changeMovie, deleteMovie }) => {
 
   if (selectedMovies.length === 0) {
     return (
-      <div style={{height: "36rem"}}>
+      <div style={{height: "41rem"}}>
         <h2 className="header-title">
         Список к просмотру
         </h2>
