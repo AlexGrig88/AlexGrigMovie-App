@@ -90,7 +90,7 @@ const WatchList = ({ selectedMovies, changeMovie, deleteMovie }) => {
   }
 
   return (
-    <div style={{marginBottom: "17rem"}}>
+    <div style={{marginBottom: "22rem"}}>
       <h2 className="header-title">
         Список к просмотру
       </h2>

@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <div style={{ margin: "10px", border: "10px" }}>
+    <div style={{border: "10px", marginBottom: "4rem" }}>
       <h1 className="header-title">О проекте</h1>
       <h2 style={{color: "coral", textAlign: "center"}}>Приложение-сайт о кино AlexGrig Movie.</h2>
       <ol style={{color: "white", lineHeight: "2"}}>
