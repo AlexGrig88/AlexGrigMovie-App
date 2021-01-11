@@ -1,0 +1,21 @@
+.icon-play {
+  font-size: 5rem;
+  color: rgb(255, 187, 0);
+  cursor: pointer;
+}
+
+.detail-title {
+  text-align: center;
+  font-size: x-large;
+  color: rgb(255, 251, 0);
+}
+.text-decor {
+  color: rgb(190, 235, 176);
+}
+
+.subtitles-detail {
+  color: rgb(184, 211, 235);
+  font-weight: bolder;
+  font-size: 22px;
+
+}

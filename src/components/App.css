@@ -1,0 +1,14 @@
+.header-title {
+  text-align: center;
+  color: whitesmoke;
+  margin: 30px;
+}
+
+thead>tr th {
+  color: yellowgreen;
+}
+
+.footer {
+  background-color: #212529;
+  color: #5a606b;
+}

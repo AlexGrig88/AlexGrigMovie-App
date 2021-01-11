@@ -1,0 +1,17 @@
+
+.form-input {
+  padding: 5px;
+  border-radius:10px;
+  width: 50%;
+  box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+  border:1px solid #85a3ca;
+  background-color: rgb(210, 225, 253);
+}
+
+.form-label {
+  font-family:inherit;
+  font-size:large;
+  font-weight: 600;
+  margin: 10px;
+  color: rgb(0, 255, 255);
+}

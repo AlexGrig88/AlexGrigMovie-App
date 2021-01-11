@@ -1,0 +1,58 @@
+.bord {
+  margin-bottom: 20px;
+}
+
+.right-arrow {
+  position: absolute; 
+  right: 20px;
+  font-size: 2rem;
+  color: rgb(255, 187, 0);
+  cursor: pointer;
+  user-select: none;
+  }
+  
+  .right-arrow:hover {
+    color: rgb(253, 253, 253);
+    transition: all 0.3s ease-in-out;
+  }
+
+  .title-arrow {
+    position: absolute;
+    right: 60px;
+    color: yellow;
+  }
+
+  .add-decor {
+    color: #8B4513;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  .btn-left {
+    margin-left: 5px;
+  }
+
+  .pagination-outer{ 
+    text-align: center; 
+  }
+  .pagination {
+    font-family: 'Nunito Sans', sans-serif;
+    display: inline-flex;
+    position: relative;
+}
+   .pagination li span.page-link {
+    color: #fc7f0a;
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    height: 40px;
+    width: 40px;
+    margin: 0 3px 10px;
+    border: none;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    transition: all 0.4s ease 0s;
+    -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+   }
